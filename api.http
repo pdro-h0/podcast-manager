@@ -1,0 +1,6 @@
+@baseURL = http://localhost:3333
+GET {{baseURL}}/api/list
+###
+
+
+GET {{baseURL}}/api/episode?p=2a

@@ -1,0 +1,19 @@
+[
+  {
+    "podcastName": "Podcast 1",
+    "episodes": "10",
+    "videoId": "abc123",
+    "categories": [
+      "technology",
+      "education"
+    ]
+  },
+  {
+    "podcastName": "Podcast 2",
+    "episodes": "7",
+    "videoId": "012nmo",
+    "categories": [
+      "sports"
+    ]
+  }
+]
